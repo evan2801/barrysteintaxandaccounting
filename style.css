@@ -5,18 +5,17 @@ header{
     font-family: 'Roboto', sans-serif;
     border-style: solid;
     border-width: 5px;
-    border-color: red;
+    border-color:black;
 }
 
 #barry{
     length: 400px;
     width:400px;
+    
 }
 
 #form{
     length: 400px;
     width:400px;
-}
-img{
-    align: center;
+    
 }
