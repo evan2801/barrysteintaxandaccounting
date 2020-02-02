@@ -17,5 +17,9 @@ header{
 #form{
     length: 400px;
     width:400px;
-    
 }
+footer{
+    text-align: center;
+    font-size: 25px;
+}
+
