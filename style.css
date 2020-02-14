@@ -1,7 +1,9 @@
-body{
-    background-color: whitesmoke;
+
+a{
+ 
 }
-header{
+
+.header{
     text-align: center;
     color: black;
     font-size: 75px;
@@ -12,20 +14,6 @@ header{
     background-color:#28a745
 }
 
-#barry{
-    height: 300px;
-    width:400px;
-    padding: 10px;
-    align-items: center;
-    
-}
-
-#form{
-    height: 300px;
-    width:400px;
-    align-items: center ;
-    padding: 10px;
-}
 footer{
     text-align: center;
     font-size: 25px;
@@ -33,4 +21,21 @@ footer{
 
 h1{
     color: #28a745;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bio{
+    padding: 200px;
+}
+h2{
+    text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    font-family: 'Cinzel', serif;
+}
+p{
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+
 }
